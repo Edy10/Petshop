@@ -1,0 +1,19 @@
+.row{
+    display: flex;
+    flex-direction: row;
+    .col{
+        width: 50%;
+    }
+}
+label{
+    margin-right: 10px;
+  }
+.espaco-abaixo{
+    margin-bottom: 15px;
+}
+.espaco-lado{
+    margin-right: 10px;
+}
+.fade-enter, .fade-leave-to{
+    opacity: 0;
+}
