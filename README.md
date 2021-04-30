@@ -2,6 +2,15 @@
 
 ## O sistema realiza um agendamento. Apás o agendamento, é realizado o atendimento é o balanço.
 
+### 🛠 Tecnologias
+
+As seguintes ferramentas foram usadas na construção do projeto:
+
+- [Axios](https://www.npmjs.com/package/axios)
+- [Node.js](https://nodejs.org/en/)
+- [Vuejs](https://vuejs.org/v2/guide/)
+- [Vuetifi](https://vuetifyjs.com/en/)
+
 ### Features
 
 - [x] Agendamento
