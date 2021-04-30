@@ -27,7 +27,7 @@ Além disto é bom ter um editor para trabalhar com o código como [VSCode](http
 
 ```bash
 # Clone este repositório
-$ git clone <https://github.com/Edy10/server.git>
+$ git clone https://github.com/Edy10/server.git
 
 # Acesse a pasta do projeto no terminal/cmd
 $ cd server
@@ -35,7 +35,7 @@ $ cd server
 # Vá para a pasta server e execute a aplicação em modo de desenvolvimento
 $ json-server db.json
 
-# O servidor inciará na porta:3333 - acesse <http://localhost:3333>
+# O servidor inciará na porta:3333 - acesse http://localhost:3333
 
 ```
 
