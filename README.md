@@ -1,6 +1,6 @@
-# Petshop - Sistema de Agendamento e atendimento
+# Petshop - Sistema de Agendamento
 
-## O sistema realiza um agendamento. Apás o agendamento, é realizado o atendimento é fechamento do atendimento.
+## O sistema realiza um agendamento. Apás o agendamento, é realizado o atendimento é o balanço.
 
 ### Features
 
