@@ -16,6 +16,7 @@ As seguintes ferramentas foram usadas na construção do projeto:
 - [x] Agendamento
 - [x] Atendimento
 - [x] Fechamento do atendimento
+- [ ] E-commerce
 
 ### Pré-requisitos
 
