@@ -20,8 +20,8 @@ As seguintes ferramentas foram usadas na construção do projeto:
 ### Pré-requisitos
 
 Antes de começar, você vai precisar ter instalado em sua máquina as seguintes ferramentas:
-[Git](https://git-scm.com), [Node.js](https://nodejs.org/en/).
-Além disto é bom ter um editor para trabalhar com o código como [VSCode](https://code.visualstudio.com/) é também vai precisar do json-server para rodar a API do petshop.
+[Node.js](https://nodejs.org/en/), [NPM](https://docs.npmjs.com/cli/v7/commands/npm-install) e [VUE CLI](https://cli.vuejs.org/).
+Além disto é bom ter um editor para trabalhar com o código como [VSCode](https://code.visualstudio.com/) é também vai precisar do  [json-server](https://github.com/Edy10/server.git) para rodar a API do petshop.
 
 ### 🎲 Rodando o Back End (servidor)
 
@@ -29,7 +29,7 @@ Além disto é bom ter um editor para trabalhar com o código como [VSCode](http
 # Clone este repositório
 $ git clone https://github.com/Edy10/server.git
 
-# Acesse a pasta do projeto no terminal/cmd
+# Acesse a pasta do Server no terminal/cmd
 $ cd server
 
 # Vá para a pasta server e execute a aplicação em modo de desenvolvimento
